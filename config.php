@@ -17,7 +17,7 @@ $CFG->dboptions = array(
     'dbsocket' => '',
 );
 
-$CFG->wwwroot   = 'http://172.16.10.38';
+$CFG->wwwroot   = 'http://jericho-moodle.seculab.space';
 $CFG->dataroot  = '/var/www/html/NFS/MoodleData';
 $CFG->admin     = 'admin';
 
